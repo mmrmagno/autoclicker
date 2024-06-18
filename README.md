@@ -1,5 +1,5 @@
 # AutoClicker
-=====================================
+--------
 
 ![AutoClickerLogo](https://www.marc-os.com/src/autoclicklogo.webp)
 
@@ -120,7 +120,7 @@ To use the application as a standalone executable, you can use PyInstaller.
 License
 -------
 
-This project is licensed under the MIT License. See the <LICENSE> file for details.
+This project is licensed under the MIT License. See the [LICENSE] file for details.
 
 Support
 -------
