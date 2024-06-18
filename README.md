@@ -1,7 +1,7 @@
 # AutoClicker
 =====================================
 
-![AutoClickerLogo](https://www.marc-os.com/autoclicklogo)
+![AutoClickerLogo](https://www.marc-os.com/autoclicklogo.webp)
 
 ## Overview
 --------
