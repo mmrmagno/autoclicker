@@ -1,2 +1,4 @@
 pynput
+pystray
 tk
+pyinstaller
