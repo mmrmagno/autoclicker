@@ -26,8 +26,8 @@ AutoClicker is a simple, user-friendly application designed to automate mouse cl
 1.  **Clone the Repository**:
 
     ```sh
-    git clone 
-    cd 
+    git clone https://github.com/mmrmagno/autoclicker.git
+    cd autoclicker
     ```
 
 2.  **Install the Required Packages**:
