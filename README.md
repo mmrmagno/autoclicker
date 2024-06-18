@@ -95,28 +95,6 @@ To use the application as a standalone executable, you can use PyInstaller.
 2.  Select "Change Key Bindings".
 3.  Enter the new start and stop keys and click "Save".
 
-## Development
------------
-
-### Key Functions
-
--   `resource_path(relative_path)`: Returns the absolute path to a resource.
--   `AutoClicker`: Main class for the auto-clicker application.
-    -   `__init__(self, root, icon_path)`: Initializes the application.
-    -   `create_widgets(self)`: Creates and configures the main window widgets.
-    -   `start_action(self)`: Starts the auto-clicking action.
-    -   `stop_action(self)`: Stops the auto-clicking action.
-    -   `clicker(self)`: Performs the auto-clicking.
-    -   `holder(self)`: Holds the mouse button down.
-    -   `setup_hotkeys(self)`: Sets up the hotkeys for starting and stopping the auto-clicking action.
-    -   `change_key_bindings(self)`: Opens a window to change the hotkeys.
-    -   `on_closing(self)`: Handles the window closing event.
-    -   `hide_window(self)`: Minimizes the window to the system tray.
-    -   `show_window(self, icon, item)`: Restores the window from the system tray.
-    -   `exit_app(self, icon, item)`: Exits the application.
-    -   `setup_tray_icon(self)`: Sets up the system tray icon and menu.
-
-
 License
 -------
 
